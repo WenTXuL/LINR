@@ -18,7 +18,7 @@ conda install jupyter
 ```
 
 ## How to run
-1. Change the file path in jupyter Notebooks or in to the image you want
+1. Change the file path in jupyter Notebooks or in `train_denoising.py` to the image you want
 2. Run each cell in jupyter Notebooks or run the code in `train_denoising.py`
 
 ## Citation
