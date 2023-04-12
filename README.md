@@ -1,5 +1,5 @@
 # Revisiting Implicit Neural Representations in Low-Level Vision
-### [Paper](https://wentxul.github.io/LINR-projectpage/Revisiting Implicit Neural Representations in Low-Level Vision_files/workshop_Revisiting_Implicit_Neural_Representations_in_Low_Level_Vision.pdf) | [Project Page](https://wentxul.github.io/LINR-projectpage/) 
+### [Paper](https://wentxul.github.io/LINR-projectpage/Revisiting%20Implicit%20Neural%20Representations%20in%20Low-Level%20Vision_files/workshop_Revisiting_Implicit_Neural_Representations_in_Low_Level_Vision.pdf) | [Project Page](https://wentxul.github.io/LINR-projectpage/) 
 
 This repository provides the implementation of the paper:
 
@@ -54,4 +54,4 @@ If you find LINR useful, please cite the following BibTeX entry:
 ```
 
 ## Achnowledgement
-Part of the code is based on [DIP](https://github.com/DmitryUlyanov/deep-image-prior), [SIREN](https://github.com/vsitzmann/siren) and [DeepRED] (https://github.com/GaryMataev/DeepRED).
+Part of the code is based on [DIP](https://github.com/DmitryUlyanov/deep-image-prior), [SIREN](https://github.com/vsitzmann/siren) and [DeepRED](https://github.com/GaryMataev/DeepRED).
