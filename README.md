@@ -1,5 +1,5 @@
 # Revisiting Implicit Neural Representations in Low-Level Vision
-### [Paper]() | [Project Page]() 
+### [Paper](https://wentxul.github.io/LINR-projectpage/Revisiting Implicit Neural Representations in Low-Level Vision_files/workshop_Revisiting_Implicit_Neural_Representations_in_Low_Level_Vision.pdf) | [Project Page](https://wentxul.github.io/LINR-projectpage/) 
 
 This repository provides the implementation of the paper:
 
@@ -37,11 +37,8 @@ conda install jupyter
 2. Run each cell in jupyter Notebooks or run the code in `train_denoising.py`
 
 ### Data
-...
-### Training
-...
-### Testing
-...
+The data used in the paper is stored in the data folder. You can also use your own data by changing the file path.
+
 
 
 ---
@@ -57,4 +54,4 @@ If you find LINR useful, please cite the following BibTeX entry:
 ```
 
 ## Achnowledgement
-...
+Part of the code is based on DIP(https://github.com/DmitryUlyanov/deep-image-prior), SIREN() and DeepRED ().
