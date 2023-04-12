@@ -3,7 +3,10 @@
 
 This repository provides the implementation of the paper:
 
-Wentian Xu and Jianbo Jiao. *Revisiting Implicit Neural Representations in Low-Level Vision*. In ICLR-[NF](https://sites.google.com/view/neural-fields) (2023).
+Wentian Xu and Jianbo Jiao. *[Revisiting Implicit Neural Representations in Low-Level Vision]()*. In ICLR-[NF](https://sites.google.com/view/neural-fields) (2023).
+
+<!-- <img src="https://github.com/WenTXuL/LINR/overview.png" alt="Overview" width="100%"> -->
+![Overview](Overview.png)
 
 We provide Jupyter Notebooks for each task in the paper. We also provide a denosing example based on .py file.
 
@@ -37,6 +40,9 @@ conda install jupyter
 ...
 ### Training
 ...
+### Testing
+...
+
 
 ---
 ## Citation
