@@ -91,7 +91,7 @@ def train(fname,noise):
           print("time = ",end_time-start_time)
           # save
           savefloder = 'result'
-          if not os.path.exists(savefloder):  #判断是否存在文件夹如果不存在则创建为文件夹
+          if not os.path.exists(savefloder): 
             os.makedirs(savefloder)
           
           basename = os.path.basename(fname)
