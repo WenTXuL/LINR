@@ -21,8 +21,8 @@ Alternatively, you may install them manually:
 ```bash
 conda create --name linr
 source activate linr
-conda install python = 3.6
-conda install pytorch = 1.12 torchvision cudatollkit = 11.6 -c pytorch
+conda install python=3.6
+conda install pytorch=1.12 torchvision cudatoolkit=11.6 -c pytorch
 conda install numpy
 conda install matplotlib
 conda install scikit-image
