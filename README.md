@@ -54,4 +54,4 @@ If you find LINR useful, please cite the following BibTeX entry:
 ```
 
 ## Achnowledgement
-Part of the code is based on DIP(https://github.com/DmitryUlyanov/deep-image-prior), SIREN() and DeepRED ().
+Part of the code is based on [DIP](https://github.com/DmitryUlyanov/deep-image-prior), SIREN() and DeepRED ().
