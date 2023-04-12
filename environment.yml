@@ -1,0 +1,14 @@
+name: linr
+channels:
+- pytorch
+- defaults
+dependencies:
+- python=3.9
+- numpy
+- matplotlib
+- pip
+- jupyter
+- scikit-image
+- pytorch=1.12.1=py3.9_cuda11.6_cudnn8_0
+- torchvision=0.13.1=py39_cu116
+
