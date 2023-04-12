@@ -37,7 +37,7 @@ conda install jupyter
 2. Run each cell in jupyter Notebooks or run the code in `train_denoising.py`
 
 ### Data
-The data used in the paper is stored in the data folder. You can also use your own data by changing the file path.
+The Data used in the paper is stored in the data folder. You can also use your own data by changing the file path.
 
 
 
