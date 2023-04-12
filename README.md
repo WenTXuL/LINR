@@ -3,7 +3,7 @@
 
 This repository provides the implementation of the paper:
 
-Wentian Xu and Jianbo Jiao. *[Revisiting Implicit Neural Representations in Low-Level Vision]()*. In ICLR-[NF](https://sites.google.com/view/neural-fields) (2023).
+Wentian Xu and Jianbo Jiao. *[Revisiting Implicit Neural Representations in Low-Level Vision](https://wentxul.github.io/LINR-projectpage/Revisiting%20Implicit%20Neural%20Representations%20in%20Low-Level%20Vision_files/workshop_Revisiting_Implicit_Neural_Representations_in_Low_Level_Vision.pdf)*. In ICLR-[NF](https://sites.google.com/view/neural-fields) (2023).
 
 <!-- <img src="https://github.com/WenTXuL/LINR/overview.png" alt="Overview" width="100%"> -->
 ![Overview](Overview.png)
@@ -37,7 +37,7 @@ conda install jupyter
 2. Run each cell in jupyter Notebooks or run the code in `train_denoising.py`
 
 ### Data
-The Data used in the paper is stored in the data folder. You can also use your own data by changing the file path.
+The data used in the paper is stored in the [Data](Data/) folder. You can also use your own data by changing the file path.
 
 
 
